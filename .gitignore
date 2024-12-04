@@ -1,0 +1,15 @@
+# Ignore environment variable file
+.env
+
+# macOS specific system files
+.DS_Store
+
+# PyCharm project settings directory
+.idea/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment folder (if applicable)
+venv/
